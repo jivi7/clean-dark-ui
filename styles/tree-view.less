@@ -18,3 +18,10 @@
     color: @text-color-selected;
   }
 }
+
+.list-tree {
+  .selected::before {
+      background-color: transparent;
+      border-left: @border-size solid @text-color-selected;
+  }
+}
