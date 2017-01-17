@@ -10,7 +10,7 @@
     "flat",
     "dark"
   ],
-  "repository": "https://github.com/atom-community/clean-dark-ui",
+  "repository": "https://github.com/zarzosa/clean-dark-u",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
